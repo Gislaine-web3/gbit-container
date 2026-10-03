@@ -29,11 +29,11 @@ Funciona como **PM2 + Foreman** — levante stacks inteiras com um comando, moni
 
 ---
 
-📦 [Pacote no NPM](https://www.npmjs.com/package/gbit-container) · 💻 [Repositório no GitHub](https://github.com/Gislaine-programadora)
+📦 [Pacote no NPM](https://www.npmjs.com/package/gbit-container) · 💻 [Repositório no GitHub](https://github.com/Gislaine-web3)
 
 <div align="center">
 
-[![Website GitHub Pages](https://img.shields.io/badge/🌐_Acessar_Landing_Page-github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://gislaine-programadora.github.io/gbit-container/)
+[![Website GitHub Pages](https://img.shields.io/badge/🌐_Acessar_Landing_Page-github.io-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://gislaine-web3.github.io/gbit-container/)
 
 </div>
 
